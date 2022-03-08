@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@tailwind base;
+body {
+    @apply bg-gray-900;
+}
+@tailwind components;
+@tailwind utilities;
