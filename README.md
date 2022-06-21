@@ -13,6 +13,9 @@ Using the agreed upon programming language, build a solution that solves the abo
 You have one week to accomplish the assignment. You decide yourself how much time and effort you invest in it, but one of our colleagues tends to say: "Make sure it is good" ;-).
 
 
+#### [Link to my implementation Review/feedback](https://docs.google.com/document/d/1sc1GcpLgl8YrmKBTjhkhkJ3xK1Mbcjqojvaq96GXWc8/edit?usp=sharing)
+
+
 # SOLUTION
 
 ### Requirement
